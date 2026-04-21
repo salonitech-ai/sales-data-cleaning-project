@@ -41,6 +41,14 @@ A clean and structured dataset ready for analysis and visualization.
 
 ---
 
+## 📊 Key Insights
+
+- Mumbai generates the highest sales, while Chennai has the lowest  
+- Headphones are the most profitable product, whereas Laptops generate the lowest profit  
+- Out of 100 transactions, 71 are profitable and 29 result in losses  
+- A significant portion of transactions are profitable, but losses still exist and need attention  
+- Profitability varies across different products, indicating scope for optimization  
+
 ## 🚀 Future Improvements
 - Data visualization (charts/dashboard)  
 - Analysis of sales trends  
