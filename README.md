@@ -49,7 +49,5 @@ A clean and structured dataset ready for analysis and visualization.
 - A significant portion of transactions are profitable, but losses still exist and need attention  
 - Profitability varies across different products, indicating scope for optimization  
 
-## 🚀 Future Improvements
-- Data visualization (charts/dashboard)  
-- Analysis of sales trends  
-- Profitability insights  
+
+
