@@ -49,5 +49,14 @@ A clean and structured dataset ready for analysis and visualization.
 - A significant portion of transactions are profitable, but losses still exist and need attention  
 - Profitability varies across different products, indicating scope for optimization  
 
+## 📈 Visualizations
 
+### Sales by City
+[Sales by City](sales_by_city.png)
+
+### Profit by Product
+[Profit by Product](profit_by_product.png)
+
+### Profit vs Loss
+[Profit vs Loss](Profit_vs_Loss.png)
 
