@@ -23,3 +23,6 @@ This project involves cleaning, analyzing, and visualizing sales data using Exce
 - Cleaned dataset (Excel)
 - Power BI dashboard (.pbix)
 - Dashboard screenshot
+
+  ## 💡 Outcome
+This project demonstrates how raw data can be transformed into actionable business insights using simple tools like Excel and Power BI.
